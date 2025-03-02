@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Zadanie 1");
+            Console.WriteLine("Operatory\nZadanie 1");
             int number = 1;
             float money = 12;
             string text = "text";
@@ -45,7 +45,7 @@ namespace ConsoleApp
             Console.WriteLine("{0}", result_);
             //Dodawanie zmiennych typu string łączy wszystkie dodane zmienne w jeden ciąg znaków
 
-            Console.WriteLine("\nInstrukcje sterujące i pętle\n\nZadanie 1");
+            Console.WriteLine("\nInstrukcje sterujące i pętle\nZadanie 1");
             int n1 = 10;
             int n2 = 20;
             if (n1 > n2)
